@@ -1,5 +1,6 @@
 # Self-Driving-Robot
 ### [라즈베리파이 자율주행 자동차 Tutorial](https://github.com/noseaj/Self-Driving-Robot/tree/main/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4%20%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%20%EC%9E%90%EB%8F%99%EC%B0%A8%20Tutorial)
+- 자세한 설명 + 동영상 첨부 + Pytorch 버전 추가
 
 ****
 ## Publication
